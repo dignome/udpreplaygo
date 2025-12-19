@@ -1,4 +1,4 @@
-Simulates an NS2 server by sheer brute force.
+Simulates an NS2 / Natural Selection 2 game server by sheer brute force.
 
 -Waits for the client side packets to hit and then sends the next packet.
 -Attempts to replay at same rate as captured by packet timings.
