@@ -9,3 +9,5 @@ URL=steam://run/4920//+connect myserverip:27005
 For the network capture be sure to strip out everything before until the first SPARKNET packet from the client.
 
 A few gotchas - may have to run the playback more than once to get it to start.  Does not currently handle map changes.
+
+Through further understanding of the NS2 protocl is may be possible to handle map changes, extract individual games for playback, or even more creative possibilites may be possible.
